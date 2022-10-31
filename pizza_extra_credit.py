@@ -1,4 +1,4 @@
-#EXTRA CREDIT -
+#EXTRA CREDIT - 25 points
 #
 #You have already printed the cost of various amounts of pizza using
 #a loop. Let's suppose that there are now additional bundles available
