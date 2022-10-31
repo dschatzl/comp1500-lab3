@@ -18,7 +18,7 @@
 
 #The price for 0 pizza(s) is $0
 #The price for 1 pizza(s) is $12
-#The price for 2 pizza(s) is $24i
+#The price for 2 pizza(s) is $24
 #You get a free topping!
 #The price for 3 pizza(s) is $36
 #You get a free soda!
