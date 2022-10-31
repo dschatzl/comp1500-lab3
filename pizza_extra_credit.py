@@ -55,3 +55,5 @@
 #The price for 20 pizza(s) is $240
 #You get a free topping!
 #You get a loyalty reward card!
+
+PRICE_PER_PIZZA = 12
