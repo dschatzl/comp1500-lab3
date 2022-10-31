@@ -12,7 +12,7 @@
 #conditions is met, also print the condition. 
 #
 #No points will be given for printing this sequence manually (otherwise known as
-#"hard coding"). You should use only one loop.
+#"hard coding"). You should use only loops.
 #
 #Example output:
 
